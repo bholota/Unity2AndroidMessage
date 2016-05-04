@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/libs/unity-classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8aed2512915eb930a43cf8a0717460c5231b3b05">
+        <dex dex="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_18635431ad1de429bed1864d61e056bc1657a09c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9740187b411e7e9f46b25678cd4f692102928b38">
+        <dex dex="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a54c75095012da2a5962bf9bd1d5d27f2cf8814c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_1541f780a1af1c2952e29dc758deebda43a54424/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="608186b3fa65517ca7a604df863a8d14b473648f">
+        <dex dex="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_70f03a6094f6ff9048e4d16d41e1b6d8aa696391/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_31884246f60d16b48c91d832229e635d1c22f450/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mr3mpty/tools/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_6ca3090dbd2bdbdd2b767c870ac0c2d3634f0a07/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="375631257838441" >
+
+    <task
+        name="javac"
+        duration="304" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="89" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="375631257838441" >
+        <artifact
+            location="/Users/mr3mpty/Programowanie/Unity2AndroidMessageGradle/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
